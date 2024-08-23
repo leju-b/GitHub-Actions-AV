@@ -1,4 +1,4 @@
-# Testing out self hosted runners
+# Testing out self hosted runner
 def add(a, b):
     return a + b
 
