@@ -1,6 +1,4 @@
-# app.py
-# This is a test commit
-# my_test
+# Testing out self hosted runners
 def add(a, b):
     return a + b
 
